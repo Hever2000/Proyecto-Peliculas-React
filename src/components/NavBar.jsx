@@ -5,7 +5,7 @@ function NavBar(){
   return(
     <nav className="navbar">
       <div className="navbar-brand">
-        <img src="./images/logo.png" alt="MovieApp Logo" className="navbar-logo" />
+        <img src="../images/logo.png" alt="MovieApp Logo" className="navbar-logo" />
         <Link to="/">MovieApp</Link>
       </div>
       <div className="navbar-links">
